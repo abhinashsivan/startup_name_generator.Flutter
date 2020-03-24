@@ -1,4 +1,4 @@
-# startupnamegenerator
+# start_up_name_generator
 
 A simple Flutter application that generates randon names for startups.
 
@@ -7,4 +7,4 @@ The names are generated using the open-source package named english_words, which
 
 Demo 
 
-![Alt Text](https://drive.google.com/open?id=1kfrWdOuLKJQst0Cb2kHgXsOz7FYa2bA1)
+![Alt Text](https://github.com/abhinashsivan/startup_name_generator.Flutter/blob/master/demo.gif)
